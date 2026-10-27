@@ -1,0 +1,28 @@
+modules = ["nodejs-20", "python-base-3.13"]
+[agent]
+expertMode = true
+
+[[ports]]
+localPort = 8000
+externalPort = 80
+
+[workflows]
+runButton = "Start application"
+
+[[workflows.workflow]]
+name = "Start application"
+author = "agent"
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "node index.js"
+
+[workflows.workflow.metadata]
+outputType = "console"
+
+[deployment]
+deploymentTarget = "cloudrun"
+
+[nix]
+channel = "stable-25_05"

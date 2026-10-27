@@ -1,0 +1,38 @@
+{
+  "290250829921910795": {
+    "totalDebt": 1570507721,
+    "lastTaxDate": 1793069163118,
+    "weeksSinceLastPayment": 10,
+    "creationDate": 1774896315861
+  },
+  "1489327642456100954": {
+    "totalDebt": 6306637,
+    "lastTaxDate": 1793069163118,
+    "weeksSinceLastPayment": 14,
+    "creationDate": 1783104152349
+  },
+  "1138949736813039677": {
+    "totalDebt": 11032815377,
+    "lastTaxDate": 1793069163118,
+    "weeksSinceLastPayment": 13,
+    "creationDate": 1783205486655
+  },
+  "711477860707205132": {
+    "totalDebt": 1878186422,
+    "lastTaxDate": 1793069163118,
+    "weeksSinceLastPayment": 14,
+    "creationDate": 1783554880627
+  },
+  "1303147501515313284": {
+    "totalDebt": 322001499990,
+    "lastTaxDate": 1793069163118,
+    "weeksSinceLastPayment": 13,
+    "creationDate": 1784528336747
+  },
+  "1094783404429561967": {
+    "totalDebt": 95398391735,
+    "lastTaxDate": 1793069163118,
+    "weeksSinceLastPayment": 14,
+    "creationDate": 1784235805540
+  }
+}

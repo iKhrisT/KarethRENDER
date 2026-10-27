@@ -1,0 +1,76 @@
+{
+  "290250829921910795": {
+    "currentJob": "programador",
+    "jobs": {
+      "programador": {
+        "level": 8,
+        "xp": 511,
+        "xpToNextLevel": 702
+      }
+    }
+  },
+  "1138949736813039677": {
+    "currentJob": "maestro",
+    "jobs": {
+      "maestro": {
+        "level": 1,
+        "xp": 21,
+        "xpToNextLevel": 100
+      }
+    }
+  },
+  "1511888571236093952": {
+    "currentJob": null,
+    "jobs": {}
+  },
+  "711477860707205132": {
+    "currentJob": "maestro",
+    "jobs": {
+      "maestro": {
+        "level": 4,
+        "xp": 248,
+        "xpToNextLevel": 275
+      }
+    }
+  },
+  "1489327642456100954": {
+    "currentJob": "maestro",
+    "jobs": {
+      "maestro": {
+        "level": 3,
+        "xp": 104,
+        "xpToNextLevel": 159
+      }
+    }
+  },
+  "1493432072579317831": {
+    "currentJob": "obrero",
+    "jobs": {
+      "obrero": {
+        "level": 1,
+        "xp": 33,
+        "xpToNextLevel": 100
+      }
+    }
+  },
+  "1303147501515313284": {
+    "currentJob": "obrero",
+    "jobs": {
+      "obrero": {
+        "level": 3,
+        "xp": 2,
+        "xpToNextLevel": 193
+      }
+    }
+  },
+  "1094783404429561967": {
+    "currentJob": "maestro",
+    "jobs": {
+      "maestro": {
+        "level": 5,
+        "xp": 96,
+        "xpToNextLevel": 364
+      }
+    }
+  }
+}
